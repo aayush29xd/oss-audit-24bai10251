@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 4: Log File Analyzer
-# Author: Aayush Mittal| Course: Open Source Software
+# Author: Aayush Mittal | Course: Open Source Software
 # Description: Reads a log file line by line, counts occurrences
 #              of a keyword, handles missing/empty files, and
 #              prints the last 5 matching lines.
