@@ -11,6 +11,7 @@
 | **Name** | Aayush Mittal |
 | **Registration Number** | 24BAI10251 |
 | **Date of Submission** | 31.03.2026 |
+| **Slot** | A24 |
 | **Chosen Software** | Python |
 
 ---
